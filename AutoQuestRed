@@ -1,0 +1,187 @@
+    game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Made By Galaxy";
+    Icon = "rbxassetid://78551511760951" ;-- Ensure this asset ID is va
+    Text = "Hello Joins The server discord";
+ 
+})
+
+    game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Made By Galaxy";
+    Icon = "rbxassetid://78551511760951" ;-- Ensure this asset ID is va
+    Text = "Auto Quest Red";
+ 
+})
+
+local plr = game.Players.LocalPlayer
+	game.Workspace.FriendlyNPCs["Quest Giver"].Name = "Finishedd"
+	game.Workspace.FriendlyNPCs["Quest Giver"].Name = "Finishedd"
+	local ChatStart = plr.Backpack.ServerTraits.ChatStart
+	ChatStart:FireServer(workspace.FriendlyNPCs["Bulma"])
+	wait(0.5)
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	wait(0.5)
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "Yes",
+	})
+	wait(0.5)
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	wait(0.7)
+	local ChatStart = plr.Backpack.ServerTraits.ChatStart
+	ChatStart:FireServer(workspace.FriendlyNPCs["Spaceship"])
+	wait(0.5)
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	wait(0.5)
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "No",
+	})
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	wait(0.7)
+	--/////////////////////////////////////////////////////
+	wait()
+	local ChatStart = plr.Backpack.ServerTraits.ChatStart
+	ChatStart:FireServer(workspace.FriendlyNPCs["Trunks [Future]"])
+	wait(0.5)
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	wait(0.5)
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "Yes",
+	})
+	wait(0.5)
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	wait(0.7)
+	local ChatStart = plr.Backpack.ServerTraits.ChatStart
+	ChatStart:FireServer(workspace.FriendlyNPCs["TimeMachine"])
+	wait(0.5)
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	wait(0.5)
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "No",
+	})
+	wait(0.7)
+	local ChatStart = plr.Backpack.ServerTraits.ChatStart
+	ChatStart:FireServer(workspace.FriendlyNPCs["Quest Giver"])
+	wait(0.5)
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	wait(0.5)
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "Yes",
+	})
+	wait(0.5)
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	wait(0.7)
+	wait()
+	local ChatStart = plr.Backpack.ServerTraits.ChatStart
+	ChatStart:FireServer(workspace.FriendlyNPCs["NamekianShip"])
+	wait(0.5)
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	wait(0.5)
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "No",
+	})
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	wait(0.7)
+	local ChatStart = plr.Backpack.ServerTraits.ChatStart
+	ChatStart:FireServer(workspace.FriendlyNPCs["Elder Kai"])
+	wait(0.5)
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	wait(0.5)
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	wait(0.5)
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "Yes",
+	})
+	wait(0.5)
+	local ChatAdvance = plr.Backpack.ServerTraits.ChatAdvance
+	ChatAdvance:FireServer({
+		[1] = "k",
+	})
+	wait(2)
+	if workspace.FriendlyNPCs:FindFirstChild("Finishedd") then
+		workspace.FriendlyNPCs.Finishedd.Name = "Quest Giver"
+	end
+	if workspace.FriendlyNPCs:FindFirstChild("Finishedd") then
+		workspace.FriendlyNPCs.Finishedd.Name = "Quest Giver"
+	end
+
+task.wait(0.5)
+plr.Backpack.ServerTraits.ChatStart:FireServer(workspace.FriendlyNPCs.Korin.Chat.Chat)
+task.wait(0.5)
+plr.Backpack.ServerTraits.ChatAdvance:FireServer({"k"})
+task.wait(0.5)
+plr.Backpack.ServerTraits.ChatAdvance:FireServer({"k"})
+task.wait(0.5)
+plr.Backpack.ServerTraits.ChatAdvance:FireServer({"DRINK"})
