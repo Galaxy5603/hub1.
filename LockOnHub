@@ -16,11 +16,6 @@ local plrs = game:GetService("Players")
 local TeamBased = true ; local teambasedswitch = "p"
 local presskeytoaim = true; local aimkey = "v"
 local raycast = false
-game.StarterGui:SetCore("SendNotification", {
-                        Title = "BOOGA HUB";
-                        Text = "Press P to activate and v to lock";
-                        Duration = 5;
-                        })    
 local espupdatetime = 5; autoesp = false
 
 
